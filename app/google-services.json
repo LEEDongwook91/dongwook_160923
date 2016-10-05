@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "739000843645",
+    "firebase_url": "https://dongwook-160905.firebaseio.com",
+    "project_id": "dongwook-160905",
+    "storage_bucket": "dongwook-160905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739000843645:android:d471075a1ca9f16d",
+        "android_client_info": {
+          "package_name": "com.test.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739000843645-0042s2ttm5ltao8998cl4k9ouhj5pgvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.chatting",
+            "certificate_hash": "F52EE5334B4023543E9809FAF6DEBDC9519AF6E6"
+          }
+        },
+        {
+          "client_id": "739000843645-i882i3bthmlh34h03cs0nu3lhjcrbchv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54bd90A28NgOjFRk27kpYLsjCn6ESgKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739000843645:android:dc8b9b5126beda9b",
+        "android_client_info": {
+          "package_name": "com.firebase.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739000843645-bgl01lmt75usp1ff3f3mu9m2q4v1i21r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.chatting",
+            "certificate_hash": "F52EE5334B4023543E9809FAF6DEBDC9519AF6E6"
+          }
+        },
+        {
+          "client_id": "739000843645-i882i3bthmlh34h03cs0nu3lhjcrbchv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54bd90A28NgOjFRk27kpYLsjCn6ESgKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739000843645-i882i3bthmlh34h03cs0nu3lhjcrbchv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
